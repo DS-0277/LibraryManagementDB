@@ -34,3 +34,5 @@ Step 4: Test and Query the Database
 2.	Execute the queries to test the database design (e.g. List all borrowed books)
 
 # Link to the ERD
+
+<img width="982" height="752" alt="erd_diagram" src="https://github.com/user-attachments/assets/c77b10e8-60fb-43d8-8817-7cbc76df6aab" />
